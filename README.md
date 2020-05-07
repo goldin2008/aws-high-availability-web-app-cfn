@@ -22,7 +22,7 @@ To update the stacks, run the following commands:
 
 ## Requirements
 
-Graded according to the [Project Rubric](hhttps://review.udacity.com/#!/rubrics/2556/view).
+Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2556/view).
 
 ## License
 
