@@ -22,10 +22,6 @@ To update the stacks, run the following commands:
 ./update-stack.sh <stack-name-bastion-host> bastion-host.yml bastion-host-parameters.json
 ```
 
-### Bastion Host
-
-The Linux bastion host in one of the public subnets has an Elastic IP address to allow inbound Secure Shell (SSH) access to EC2 instances in public and private subnets. A security group for fine-grained inbound access control. Update the parameter `RemoteAccessCIDR` to configure the allowed bastion external access CIDR.
-
 ## Requirements
 
 Graded according to the [Project Rubric](hhttps://review.udacity.com/#!/rubrics/2556/view).
