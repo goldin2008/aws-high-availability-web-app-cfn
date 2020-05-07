@@ -5,8 +5,6 @@ Description: >
   webserver. It deploys an auto scaling group with launch configuration, load balancer, 
   listener, listener rule and target group.
 
-  Based on https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1
-
 # Parameters
 Parameters:
   EnvironmentName:

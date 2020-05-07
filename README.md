@@ -9,7 +9,6 @@ To create the stacks, run the following commands:
 ```
 ./create-stack.sh <stack-name-network> network.yml network-parameters.json
 ./create-stack.sh <stack-name-server> server.yml server-parameters.json
-./create-stack.sh <stack-name-bastion-host> bastion-host.yml bastion-host-parameters.json
 ```
 
 ### Update the stacks
@@ -19,7 +18,6 @@ To update the stacks, run the following commands:
 ```
 ./update-stack.sh <stack-name-network> network.yml network-parameters.json
 ./update-stack.sh <stack-name-server> server.yml server-parameters.json
-./update-stack.sh <stack-name-bastion-host> bastion-host.yml bastion-host-parameters.json
 ```
 
 ## Requirements

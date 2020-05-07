@@ -6,8 +6,6 @@ Description: >
   route on the public subnets. It deploys a pair of NAT Gateways (one in each AZ), 
   and default routes for them in the private subnets.
 
-  Based on https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1
-
 # Parameters
 Parameters:
   EnvironmentName:
